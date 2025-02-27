@@ -1,0 +1,5 @@
+num = int(input('Digite um número: '))
+print('O numero escolhido foi',num)
+print('Seu dobro é ',(num*2))
+print('Seu triplo é ', (num*3))
+print('Sua raiz quadrada é ', num**(1/2))
